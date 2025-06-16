@@ -29,6 +29,7 @@ Bot Telegram cerdas yang dibuat dengan nama pribadi **Ikmal**, memiliki fitur le
 Buat file `.env` (jika tidak pakai Railway):
 
 ```env
-TELEGRAM_BOT_TOKEN=your_bot_token_here
-OPENAI_API_KEY=your_openai_api_key_here
-OWNER_NAME=Ikmal
+TELEGRAM_BOT_TOKEN = 7381621550:AAFsRzM3-2E8XcWF5NneosFAQAMVD8bLACs
+OPENAI_API_KEY = sk-...MFEA
+OWNER_NAME = Ikmal
+
